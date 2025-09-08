@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Solid Sites - Professional Website Development</title>
+    <title>Wachicode - Professional Website Development</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
@@ -244,7 +244,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-16">
                 <div class="flex items-center">
-                    <div class="text-2xl font-black text-gradient glow-text">⚡ Solid Sites</div>
+                    <div class="text-2xl font-black text-gradient glow-text">⚡ Wachicode</div>
                 </div>
                 <div class="hidden md:block">
                     <div class="ml-10 flex items-baseline space-x-8">
@@ -302,7 +302,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16">
             <div class="text-center relative z-10">
                 <h1 class="text-5xl md:text-6xl font-bold text-white mb-6 animate-fadeInUp leading-tight glow-text">
-                    Professional Website Development with <span class="text-gradient">Solid Sites</span>
+                    Professional Website Development with <span class="text-gradient">Wachicode</span>
                 </h1>
                 <p class="text-xl md:text-2xl text-white/90 mb-8 max-w-4xl mx-auto animate-fadeInUp delay-200 font-normal">
                     We create stunning, professional websites that help your business grow. From concept to launch, we deliver exceptional digital experiences.
@@ -564,7 +564,7 @@
                             <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            $350 add spend included
+                            $1,000 ad spend included
                         </li>
                         <li class="flex items-center text-gray-700">
                             <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
@@ -605,7 +605,7 @@
                             <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            $500 ad spend included
+                            $2,500 ad spend included
                         </li>
                         <li class="flex items-center text-gray-700">
                             <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
@@ -649,7 +649,7 @@
                             <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            $1500 ad spend included
+                            $5,000 ad spend included
                         </li>
                         <li class="flex items-center text-gray-700">
                             <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
@@ -704,10 +704,10 @@
                             <div class="w-12 h-12 bg-orange-500 rounded-full flex items-center justify-center text-white font-bold mr-4">JD</div>
                             <div>
                                 <h4 class="font-bold text-gray-900">John Davis</h4>
-                                <p class="text-gray-600">Animal fact Sites Owner</p>
+                                <p class="text-gray-600">Local Restaurant Owner</p>
                             </div>
                         </div>
-                        <p class="text-gray-700 italic">"Solid Sites increased our online book orders by 300% in just 2 months. Their advertising campaigns brought us customers we never would have reached otherwise!"</p>
+                        <p class="text-gray-700 italic">"Wachicode increased our online orders by 400% in just 2 months. Their advertising campaigns brought us customers we never would have reached otherwise!"</p>
                     </div>
                     <div class="bg-gray-50 p-6 rounded-xl">
                         <div class="flex items-center mb-4">
@@ -737,7 +737,7 @@
                     </button>
                 </div>
                 <div class="mt-8 text-gray-600">
-                    <p class="text-lg">⚡ No setup fees • 🎯 Results guaranteed or your money back</p>
+                    <p class="text-lg">⚡ No setup fees • 💯 30-day money-back guarantee • 🎯 Results guaranteed or your money back</p>
                 </div>
             </div>
         </div>
@@ -777,7 +777,7 @@
                     
                     <div>
                         <label class="block text-sm font-medium text-gray-700 mb-2">Project Details</label>
-                        <textarea name="message" rows="4" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors" placeholder="Tell us about your project, goals, and any specific requirements... (Please include if you're interested in advertising services! Also set up dates to chat about this.)"></textarea>
+                        <textarea name="message" rows="4" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors" placeholder="Tell us about your project, goals, and any specific requirements... (Please include if you're interested in advertising services!)"></textarea>
                     </div>
                     
                     <button type="submit" class="w-full bg-gradient-to-r from-purple-600 to-cyan-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:from-purple-500 hover:to-cyan-500 transition-all hover:scale-105 transform shadow-2xl hover:shadow-purple-500/25 relative overflow-hidden group">
@@ -824,7 +824,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid md:grid-cols-4 gap-8">
                 <div class="md:col-span-2">
-                    <div class="text-2xl font-bold mb-4">Solid Sites</div>
+                    <div class="text-2xl font-bold mb-4">Wachicode</div>
                     <p class="text-gray-400 mb-4">Building solid foundations for your online success. Professional websites that deliver results.</p>
                     <div class="flex space-x-4">
                         <a href="#" class="text-gray-400 hover:text-white transition-colors">
@@ -863,12 +863,280 @@
                 </div>
             </div>
             <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                <p>&copy; 2025 Solid Sites. All rights reserved. Building solid websites for solid businesses.</p>
+                <p>&copy; 2024 Wachicode. All rights reserved. Building solid websites for solid businesses.</p>
             </div>
         </div>
     </footer>
 
+    <!-- Admin Panel Modal -->
+    <div id="admin-modal" class="fixed inset-0 bg-black bg-opacity-50 z-50 hidden flex items-center justify-center">
+        <div class="bg-white p-8 rounded-2xl shadow-2xl max-w-md w-full mx-4">
+            <div class="text-center mb-6">
+                <h3 class="text-2xl font-bold text-gray-900 mb-2">🔐 Admin Access</h3>
+                <p class="text-gray-600">Enter admin code to access control panel</p>
+            </div>
+            <form id="admin-login-form" class="space-y-4">
+                <div>
+                    <input type="password" id="admin-code" placeholder="Enter admin code" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500 transition-colors">
+                </div>
+                <button type="submit" class="w-full bg-gradient-to-r from-purple-600 to-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-purple-500 hover:to-blue-500 transition-all">
+                    Access Admin Panel
+                </button>
+                <button type="button" onclick="closeAdminModal()" class="w-full border border-gray-300 text-gray-700 px-6 py-3 rounded-lg font-semibold hover:bg-gray-50 transition-all">
+                    Cancel
+                </button>
+            </form>
+            <div id="admin-error" class="mt-4 text-red-600 text-center hidden">
+                ❌ Invalid admin code. Please try again.
+            </div>
+        </div>
+    </div>
+
+    <!-- Admin Control Panel -->
+    <div id="admin-panel" class="fixed inset-0 bg-black bg-opacity-50 z-50 hidden flex items-center justify-center">
+        <div class="bg-white p-8 rounded-2xl shadow-2xl max-w-lg w-full mx-4">
+            <div class="text-center mb-6">
+                <h3 class="text-3xl font-bold text-gray-900 mb-2">⚙️ Admin Control Panel</h3>
+                <p class="text-gray-600">Manage your website settings</p>
+            </div>
+            
+            <div class="space-y-6">
+                <!-- Maintenance Mode Toggle -->
+                <div class="bg-gray-50 p-6 rounded-xl">
+                    <div class="flex items-center justify-between mb-4">
+                        <div>
+                            <h4 class="text-xl font-bold text-gray-900">🚧 Maintenance Mode</h4>
+                            <p class="text-gray-600">Take the site down for updates</p>
+                        </div>
+                        <div class="flex items-center">
+                            <span id="maintenance-status" class="text-green-600 font-semibold mr-3">ONLINE</span>
+                            <button id="maintenance-toggle" onclick="toggleMaintenance()" class="bg-gradient-to-r from-red-500 to-orange-600 text-white px-6 py-2 rounded-lg font-semibold hover:from-red-400 hover:to-orange-500 transition-all">
+                                Enable Maintenance
+                            </button>
+                        </div>
+                    </div>
+                    <div id="maintenance-info" class="text-sm text-gray-500 hidden">
+                        ⚠️ Maintenance mode will show a "Coming Back Soon" message to all visitors
+                    </div>
+                </div>
+
+                <!-- Site Statistics -->
+                <div class="bg-gray-50 p-6 rounded-xl">
+                    <h4 class="text-xl font-bold text-gray-900 mb-4">📊 Quick Stats</h4>
+                    <div class="grid grid-cols-2 gap-4">
+                        <div class="text-center">
+                            <div class="text-2xl font-bold text-purple-600" id="visitor-count">1,247</div>
+                            <div class="text-gray-600">Total Visits</div>
+                        </div>
+                        <div class="text-center">
+                            <div class="text-2xl font-bold text-blue-600" id="contact-forms">23</div>
+                            <div class="text-gray-600">Contact Forms</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Admin Actions -->
+                <div class="flex space-x-4">
+                    <button onclick="clearCache()" class="flex-1 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-blue-400 hover:to-purple-500 transition-all">
+                        🔄 Clear Cache
+                    </button>
+                    <button onclick="closeAdminPanel()" class="flex-1 border border-gray-300 text-gray-700 px-6 py-3 rounded-lg font-semibold hover:bg-gray-50 transition-all">
+                        Close Panel
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Maintenance Mode Overlay -->
+    <div id="maintenance-overlay" class="fixed inset-0 bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 z-40 hidden flex items-center justify-center">
+        <div class="text-center text-white p-8 max-w-2xl mx-4">
+            <div class="text-8xl mb-8">🚧</div>
+            <h1 class="text-5xl md:text-6xl font-bold mb-6 glow-text">We'll Be Right Back!</h1>
+            <p class="text-xl md:text-2xl mb-8 text-white/90">
+                Wachicode is currently undergoing scheduled maintenance to bring you an even better experience.
+            </p>
+            <div class="bg-white/10 backdrop-filter backdrop-blur-lg p-6 rounded-2xl border border-white/20 mb-8">
+                <h3 class="text-2xl font-bold mb-4">⚡ What We're Working On:</h3>
+                <ul class="text-lg space-y-2 text-left max-w-md mx-auto">
+                    <li>✨ Performance improvements</li>
+                    <li>🔧 New features and functionality</li>
+                    <li>🎨 Enhanced user experience</li>
+                    <li>🔒 Security updates</li>
+                </ul>
+            </div>
+            <p class="text-lg text-white/80 mb-6">
+                Expected completion: <span class="font-bold text-cyan-400">Within 2 hours</span>
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="mailto:maxwelladamovich@gmail.com" class="bg-gradient-to-r from-purple-600 to-cyan-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:from-purple-500 hover:to-cyan-500 transition-all hover:scale-110 transform shadow-2xl">
+                    📧 Contact Us
+                </a>
+                <button onclick="location.reload()" class="border-2 border-white text-white px-8 py-4 rounded-xl text-lg font-semibold hover:bg-white hover:text-gray-900 transition-all hover:scale-110 transform">
+                    🔄 Check Again
+                </button>
+            </div>
+            <div class="mt-8 text-sm text-white/60">
+                <p>Thank you for your patience! 💜</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Admin Access Button -->
+    <div class="fixed bottom-4 right-4 z-30">
+        <button id="admin-access-btn" onclick="openAdminModal()" class="bg-gray-800 text-white p-4 rounded-full shadow-2xl hover:bg-gray-700 transition-all opacity-70 hover:opacity-100 hover:scale-110 transform" title="Admin Access (Ctrl+Shift+A)">
+            <span class="text-xl">⚙️</span>
+        </button>
+    </div>
+
     <script>
+        // Admin functionality
+        const ADMIN_CODE = "JCSCsaw@0ssiskal,-+";
+        let isMaintenanceMode = false;
+        let isAdminLoggedIn = false;
+
+        // Check maintenance mode on load
+        window.addEventListener('load', function() {
+            const maintenanceStatus = localStorage.getItem('maintenanceMode');
+            if (maintenanceStatus === 'true') {
+                enableMaintenanceMode();
+            }
+        });
+
+        function openAdminModal() {
+            document.getElementById('admin-modal').classList.remove('hidden');
+            document.getElementById('admin-code').focus();
+        }
+
+        function closeAdminModal() {
+            document.getElementById('admin-modal').classList.add('hidden');
+            document.getElementById('admin-code').value = '';
+            document.getElementById('admin-error').classList.add('hidden');
+        }
+
+        function openAdminPanel() {
+            document.getElementById('admin-panel').classList.remove('hidden');
+            updateAdminPanel();
+        }
+
+        function closeAdminPanel() {
+            document.getElementById('admin-panel').classList.add('hidden');
+            isAdminLoggedIn = false;
+        }
+
+        function updateAdminPanel() {
+            const status = document.getElementById('maintenance-status');
+            const toggle = document.getElementById('maintenance-toggle');
+            const info = document.getElementById('maintenance-info');
+            
+            if (isMaintenanceMode) {
+                status.textContent = 'MAINTENANCE';
+                status.className = 'text-red-600 font-semibold mr-3';
+                toggle.textContent = 'Disable Maintenance';
+                toggle.className = 'bg-gradient-to-r from-green-500 to-emerald-600 text-white px-6 py-2 rounded-lg font-semibold hover:from-green-400 hover:to-emerald-500 transition-all';
+                info.classList.remove('hidden');
+            } else {
+                status.textContent = 'ONLINE';
+                status.className = 'text-green-600 font-semibold mr-3';
+                toggle.textContent = 'Enable Maintenance';
+                toggle.className = 'bg-gradient-to-r from-red-500 to-orange-600 text-white px-6 py-2 rounded-lg font-semibold hover:from-red-400 hover:to-orange-500 transition-all';
+                info.classList.add('hidden');
+            }
+        }
+
+        function toggleMaintenance() {
+            if (isMaintenanceMode) {
+                disableMaintenanceMode();
+            } else {
+                enableMaintenanceMode();
+            }
+        }
+
+        function enableMaintenanceMode() {
+            isMaintenanceMode = true;
+            localStorage.setItem('maintenanceMode', 'true');
+            document.getElementById('maintenance-overlay').classList.remove('hidden');
+            updateAdminPanel();
+            
+            // Show success message
+            if (isAdminLoggedIn) {
+                showAdminMessage('🚧 Maintenance mode enabled! Site is now offline for visitors.', 'success');
+            }
+        }
+
+        function disableMaintenanceMode() {
+            isMaintenanceMode = false;
+            localStorage.setItem('maintenanceMode', 'false');
+            document.getElementById('maintenance-overlay').classList.add('hidden');
+            updateAdminPanel();
+            
+            // Show success message
+            if (isAdminLoggedIn) {
+                showAdminMessage('✅ Maintenance mode disabled! Site is now live.', 'success');
+            }
+        }
+
+        function clearCache() {
+            // Simulate cache clearing
+            showAdminMessage('🔄 Cache cleared successfully!', 'success');
+            
+            // Update visitor count (simulate)
+            const visitorCount = document.getElementById('visitor-count');
+            const currentCount = parseInt(visitorCount.textContent.replace(',', ''));
+            visitorCount.textContent = (currentCount + Math.floor(Math.random() * 50) + 10).toLocaleString();
+        }
+
+        function showAdminMessage(message, type) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `fixed top-4 right-4 z-50 p-4 rounded-lg shadow-lg transition-all transform translate-x-full ${
+                type === 'success' ? 'bg-green-500 text-white' : 'bg-red-500 text-white'
+            }`;
+            messageDiv.textContent = message;
+            document.body.appendChild(messageDiv);
+            
+            setTimeout(() => {
+                messageDiv.classList.remove('translate-x-full');
+            }, 100);
+            
+            setTimeout(() => {
+                messageDiv.classList.add('translate-x-full');
+                setTimeout(() => {
+                    document.body.removeChild(messageDiv);
+                }, 300);
+            }, 3000);
+        }
+
+        // Admin login form handler
+        document.getElementById('admin-login-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const enteredCode = document.getElementById('admin-code').value.trim();
+            
+            console.log('Entered code:', enteredCode);
+            console.log('Expected code:', ADMIN_CODE);
+            console.log('Match:', enteredCode === ADMIN_CODE);
+            
+            if (enteredCode === ADMIN_CODE) {
+                isAdminLoggedIn = true;
+                closeAdminModal();
+                openAdminPanel();
+                showAdminMessage('✅ Admin access granted!', 'success');
+            } else {
+                document.getElementById('admin-error').classList.remove('hidden');
+                document.getElementById('admin-code').value = '';
+                setTimeout(() => {
+                    document.getElementById('admin-error').classList.add('hidden');
+                }, 3000);
+            }
+        });
+
+        // Keyboard shortcut for admin access (Ctrl+Shift+A)
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey && e.shiftKey && e.key === 'A') {
+                e.preventDefault();
+                openAdminModal();
+            }
+        });
+
         // Mobile menu toggle
         document.getElementById('mobile-menu-btn').addEventListener('click', function() {
             const mobileMenu = document.getElementById('mobile-menu');
@@ -928,8 +1196,5 @@
             });
         });
     </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'976d3deee5d96cda',t:'MTc1NjQ4MzAyMy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97c205efb76297fd',t:'MTc1NzM3MjAxOS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
-
-
-
